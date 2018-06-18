@@ -1,9 +1,9 @@
 import React from 'react';
 
-const ExpenseDashBoardPage = () => (
+const ExpenseDashboardPage = () => (
   <div>
-    This is from my dashboard component
+    This is from my dashboard component!
   </div>
 );
 
-export default ExpenseDashBoardPage;
+export default ExpenseDashboardPage;
